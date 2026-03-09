@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vollocare-plugins",
+  "description": "Vollocare team plugins for Claude Code",
+  "owner": {
+    "name": "Louis Lai"
+  },
+  "plugins": [
+    {
+      "name": "Get-email-records",
+      "description": "Query email records from Supabase. Use when the user asks to search, list, or filter email records by time, type, or keyword.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vollocare/Get-email-records.git"
+      },
+      "homepage": "https://github.com/vollocare/Get-email-records"
+    }
+  ]
+}
