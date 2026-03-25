@@ -27,6 +27,16 @@
       "homepage": "https://github.com/vollocare/Get-message-records"
     },
     {
+      "name": "Get-line-message-records",
+      "description": "Query LINE message records from Supabase. Use when the user asks to search, list, or filter LINE message records by time, group, speaker, or keyword.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vollocare/Get-line-message-records.git"
+      },
+      "homepage": "https://github.com/vollocare/Get-line-message-records"
+    },
+    {
       "name": "tts_cli",
       "description": "Local text-to-speech CLI tool optimized for macOS Apple Silicon. Use when the user needs to convert text to speech audio files, generate voice from Traditional Chinese text, play audio directly after synthesis, or choose between fast (Qwen3-TTS) and high-quality (Fish Speech) TTS engines.",
       "category": "productivity",
